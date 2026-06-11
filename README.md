@@ -1,49 +1,16 @@
+# quizfirebase
 
-# Quiz Firebase App
+A new Flutter project.
 
-Aplikasi kuis interaktif yang dikembangkan menggunakan Flutter dan Firebase. Aplikasi ini dirancang untuk memberikan pengalaman belajar yang lebih menarik melalui sistem kuis digital dengan penyimpanan data secara real-time.
+## Getting Started
 
-## Fitur
+This project is a starting point for a Flutter application.
 
-- Login dan autentikasi pengguna
-- Tampilan soal kuis interaktif
-- Perhitungan skor otomatis
-- Penyimpanan data menggunakan Firebase
-- Antarmuka mobile yang responsif
-- Integrasi Flutter dan Firebase
+A few resources to get you started if this is your first Flutter project:
 
-## Teknologi yang Digunakan
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-- Flutter
-- Dart
-- Firebase Authentication
-- Cloud Firestore
-- Firebase Core
-
-## Cara Menjalankan
-
-1. Clone repository
-
-```bash
-git clone https://github.com/rifamardhatillah/Quiz-Firebase-App.git
-```
-
-2. Install dependency
-
-```bash
-flutter pub get
-```
-
-3. Jalankan aplikasi
-
-```bash
-flutter run
-```
-
-## Tujuan Proyek
-
-Proyek ini dikembangkan untuk mempelajari pengembangan aplikasi mobile menggunakan Flutter dan integrasi layanan Firebase sebagai backend.
-
-## Pengembang
-
-Rifa Mardhatillah
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
